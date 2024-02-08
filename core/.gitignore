@@ -1,0 +1,10 @@
+# Archivos generados por el intérprete de Python
+__pycache__/
+
+# Archivos de entorno virtual
+venv/
+
+# Archivos de configuración locales
+*.pyc
+*.pyo
+*.pyd
